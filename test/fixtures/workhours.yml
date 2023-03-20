@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: false
+  time: 2023-03-16 12:27:34
+  date: 2023-03-16
+
+two:
+  type: false
+  time: 2023-03-16 12:27:34
+  date: 2023-03-16
